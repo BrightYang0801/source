@@ -1,5 +1,5 @@
 ---
-title: git常用操作
+title: git
 date: 2018-09-14 15:54:13
 tags:
   - git
